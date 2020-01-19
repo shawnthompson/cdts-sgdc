@@ -14,7 +14,7 @@ deploy:
   provider: pages
   github_token: $GH_TOKEN
   local_dir: ./dist/
-  repo: wet-boew/cdts-sgdc-cdn
+  repo: shawnthompson/cdts-sgdc-cdn
   email: $GIT_AUTHOR_EMAIL
   name: $GIT_AUTHOR_NAME
   skip_cleanup: true
