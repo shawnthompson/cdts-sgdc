@@ -1,6 +1,6 @@
 # Centrally Deployed Templates Solution (CDTS) version 1.0.0 DevOps with CI/CD
 
-[![Build Status](https://secure.travis-ci.org/wet-boew/cdts-sgdc.svg?branch=master)](https://travis-ci.org/wet-boew/cdts-sgdc)
+[![Build Status](https://secure.travis-ci.org/shawnthompson/cdts-sgdc.svg?branch=master)](https://travis-ci.org/shawnthompson/cdts-sgdc)
 [![devDependency Status](https://david-dm.org/wet-boew/cdts-sgdc/dev-status.svg)](https://david-dm.org/wet-boew/cdts-sgdc#info=devDependencies)
 
 The purpose of the CDTS is essentially to deliver the presentation layer of the Canada.ca theme or Intranet.canada.ca theme to web assets. It decouples the presentation layer from the business logic of a static website or web application and allows rapid updates across multiple networks.
